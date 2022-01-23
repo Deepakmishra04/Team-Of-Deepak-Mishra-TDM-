@@ -1,0 +1,14 @@
+.container img{
+				height:400px;
+				width: 350px;
+				border-radius:5px;
+				
+}
+.container img:hover{
+				border-radius:;
+				border:#ff5f2a solid 2px;
+				-webkit-transform: scale(1.2); 
+				-ms-transform: scale(1.2); 
+				 
+
+}
